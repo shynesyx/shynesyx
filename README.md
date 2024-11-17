@@ -11,7 +11,7 @@ Below is a list of projects that I have worked on/contributed to:
 
 ## Lifelong Learning
 
-![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Stay%20Hungry,%20Stay%20Foolish&type=horizontal&theme=dark&author=Steve%20Jobs)(https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Stay%20Hungry,%20Stay%20Foolish&type=horizontal&theme=dark&author=Steve%20Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [This repo](https://github.com/shynesyx/lll) contains a bunch of org files with all the things that I have learned/am learning.
 
