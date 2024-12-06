@@ -6,8 +6,10 @@ Long time developer and practitioner of computational fluid dynamics, plasma phy
 
 Below is a list of projects that I have worked on/contributed to:
 
-1. [DurbinV2f](https://github.com/shynesyx/DurbinV2f): the $v^2\mbox{-}f$ turbulence model proposed by Prof. Durbin implemented in OpenFOAM-2.1.0 (deprecated). See [here](https://www.openfoam.com/documentation/guides/latest/doc/guide-turbulence-ras-v2-f.html) for the official version (from [openfoam.com](openfoam.com)).
+1. [micrograd-cpp](https://github.com/shynesyx/micrograd-cpp): a C++ implementation of Andrej Karpathy's micrograd, with reverse-mode audodiff and a simple MLP.
 2. [Level Up: SQL](https://github.com/shynesyx/level-up-sql-3211372): coding challenges accompanying [the LinkedIn course](https://www.linkedin.com/learning/level-up-sql/sql-code-challenges)
+3. [DurbinV2f](https://github.com/shynesyx/DurbinV2f): the $v^2\mbox{-}f$ turbulence model proposed by Prof. Durbin implemented in OpenFOAM-2.1.0 (deprecated). See [here](https://www.openfoam.com/documentation/guides/latest/doc/guide-turbulence-ras-v2-f.html) for the official version (from [openfoam.com](openfoam.com)).
+4. [flashy](https://github.com/shynesyx/flashy): a simplistic flash card app built in electron and javascript with some help from Gemni.
 
 ## Lifelong Learning
 
